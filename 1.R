@@ -1,1 +1,0 @@
-read.csv(file='C:/Users/harsh/Desktop/r-language/1.csv')
