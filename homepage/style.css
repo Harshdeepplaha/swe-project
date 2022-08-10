@@ -1,0 +1,73 @@
+body {
+    margin: 0%;
+    background-image: url("C:/Users/harsh/Desktop/swe project/code/assets/homepage background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+nav {
+    background-color: #341d30;
+    position: relative;
+    z-index: 1;
+    padding: 0 50px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #341d30;
+    box-shadow: 0px 7px 20px #341d30;
+    margin-bottom: 5rem;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 50px;
+}
+
+li>a {
+    font-family: "Inter";
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 39px;
+    color: #d5b8d0;
+}
+
+li>a:hover {
+    color: #f5f5f5;
+}
+
+nav>h1 {
+    color: #fff;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+.avatar {
+    width: 40px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.avatar-l {
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
