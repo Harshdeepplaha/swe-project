@@ -1,32 +1,52 @@
-body{
-    background-color: #FFEDE1;
+body {
+  background-color: #FFEDE1;
 }
+
 #yash {
-    
-     background: #FFEDE1;;
+  background: #FFEDE1;
+  ;
 }
+
 .form-control {
-    
-     background: #FFEDE1;;
-}
-.btn--primary{
-    background: #341D30(--color-primary);
+  background: #FFEDE1;
+  ;
 }
 
-.signup-form-container{
-    margin-top: 10%;
-    margin-left: 20%;
-    margin-right: 20%;
+.btn--primary {
+  background: #341D30(--color-primary);
 }
 
-.btn-check:active+.btn, .btn-check:checked+.btn, .btn.active, .btn.show, .btn:active{
-    color: #341D30;
-    background-color: #341D30;
-    border
+.signup-form-container {
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
-.btn-check, .btn, .btn{
-    width: 100%;
-    border-color: #341D30;
-    background-color: #341D30;
+.btn-check:active+.btn, .btn-check:checked+.btn, .btn.active, .btn.show, .btn:active {
+  color: #341D30;
+  background-color: #341D30;
+  border
+}
+
+.btn-check, .btn, .btn {
+  width: 100%;
+  border-color: #341D30;
+  background-color: #341D30;
+}
+
+.footer {
+  margin-top: 300px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #341D30;
+}
+
+.contact-us {
+  color: #FFEDE1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-textbox {
+  background-color: #FFEDE1;
 }
