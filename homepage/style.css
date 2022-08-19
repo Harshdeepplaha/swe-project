@@ -1,4 +1,5 @@
 body {
+  
   margin: 0%;
   background-image: url("C:/Users/harsh/Desktop/swe project/code/assets/homepage background.png");
   background-repeat: no-repeat;
@@ -7,11 +8,18 @@ body {
 }
 
 .background {
+  
+  text-align: center;
   background-image: url("C:/Users/harsh/Desktop/swe project/code/assets/homepage background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+
+.quote{
+  margin-top: 150px;
+}
+
 
 .footer {
   margin-top: 300px;
